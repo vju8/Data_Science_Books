@@ -1,5 +1,5 @@
 **Project name:**  
-Data Science Books
+Best Data Science Books Analysis
 
 **Project Description:**  
 Although living in a digital world where the majority of information can be found online, books are still considered an important sources of learning and skill improvement.
